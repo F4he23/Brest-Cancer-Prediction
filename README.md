@@ -100,26 +100,6 @@ These results indicate that the model is exceptionally reliable in distinguishin
 
 ---
 
-
-## Usage
-
-1. Clone the repository to your local machine.
-2. Install the required Python libraries from `requirements.txt`.
-3. Download the dataset from Kaggle and ensure it is placed in the appropriate directory.
-4. Run the Jupyter Notebook or Python script to train and evaluate the model on the dataset.
-
-```bash
-# Clone the repository
-git clone https://github.com/virajbhutada/Breast-Cancer-Prediction.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook
-jupyter notebook breast_cancer_prediction.ipynb
-```
----
-
 ## Future Work
 
 Looking ahead, there are several avenues for extending and improving this project:
